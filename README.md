@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Roboworrier 
+- 👋 Hi, I’m Diwakar
 - 👀 I’m interested in computing languages & graphic design
 - 🌱 I’m currently learning python
 - 💞️ I’m looking for new basic projects to work on 
