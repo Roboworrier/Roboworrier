@@ -1,12 +1,7 @@
-#!/usr/bin/env python
-# coding: utf-8
 
-# In[9]:
-
-
-#for i in range(0, ax10 + [1] , a)     where a = the number you want to print table of .
+#for i in range(0, ax10 + [1] , a)     #where a = the number you want to print table of .
 #print(i)
-#example : i wanna print tableof 7 so {7x10 + 1} =71 hence range(0, 71,7)
+#example :if i wanna print table of 7 so {7x10 + 1} =71 hence range(0, 71,7)
 for i in range(0, 71 , 7):
     print(i)
 
@@ -21,15 +16,3 @@ for i in range(0, 71 , 7):
 # print(i)..
 # #you can write table of any number easily.
 # #Thanks
-
-# In[10]:
-
-
-pwd
-
-
-# In[ ]:
-
-
-
-
